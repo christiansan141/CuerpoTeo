@@ -23,13 +23,13 @@ Disenada en Autodesk Fusion (documento CARA_TEO, carpeta CLAUDE).
 - Barrera de 1.1 mm entre convertidor AC-DC y tarjeta
 - Salidas de cables por el fondo: 4 ranuras de 7.5 mm (simetricas)
 - Anclajes para brida en la salida de 120 V (borneras)
-- Orejas con hueco de 4 mm en los 4 lados, 10 mm bajo la cara, con nervios a 45 grados
+- Marco de sujecion continuo (10 mm hacia afuera, 4 mm de espesor), 12 mm bajo la cara, con 4 huecos de 4 mm y nervios a 45 grados
 - Agujeros para buzzer y rejillas de ventilacion en la franja expuesta
 
 ## Impresion
 
 - Cara: superficie visible sobre la cama
-- Cuerpo: fondo sobre la cama
+- Cuerpo: fondo sobre la cama (el marco necesita soporte)
 - Insertos termicos M3 con cautin a ~240 C (PETG)
 
 ## Pendientes
