@@ -10,7 +10,7 @@ Disenada en Autodesk Fusion (documento CARA_TEO, carpeta CLAUDE).
 | `CARA_TEO.f3d` | Archivo fuente de Fusion (historial parametrico completo) |
 | `CARA_TEO.step` | Cara + cuerpo en STEP (intercambio CAD) |
 | `stl/TEO_CARA_Y_CUERPO.stl` | Ambas piezas orientadas para imprimir |
-| `stl/TEO_CARA.stl` / `stl/TEO_CUERPO.stl` | Piezas por separado |
+| `stl/TEO_CARA.stl` / `stl/TEO_CUERPO.stl` / `stl/TEO_CONTRAMARCO.stl` | Piezas por separado |
 
 ## Especificaciones
 
@@ -23,7 +23,8 @@ Disenada en Autodesk Fusion (documento CARA_TEO, carpeta CLAUDE).
 - Barrera de 1.1 mm entre convertidor AC-DC y tarjeta
 - Salidas de cables por el fondo: 4 ranuras de 7.5 mm (simetricas)
 - Anclajes para brida en la salida de 120 V (borneras)
-- Marco de sujecion continuo (10 mm hacia afuera, 4 mm de espesor), 12 mm bajo la cara, con 4 huecos de 4 mm y nervios a 45 grados
+- Marco de sujecion continuo (10 mm hacia afuera, 3 mm de espesor), 12 mm bajo la cara, con 16 huecos de 4 mm y nervios a 45 grados por encima
+- Contramarco de 3 mm con los mismos 16 huecos: se atornilla bajo el marco y pellizca la tela del fajon
 - Agujeros para buzzer y rejillas de ventilacion en la franja expuesta
 
 ## Impresion
