@@ -31,6 +31,10 @@ Disenada en Autodesk Fusion (documento CARA_TEO, carpeta CLAUDE).
 
 - Cara: superficie visible sobre la cama
 - Cuerpo: fondo sobre la cama (el marco necesita soporte)
+- `stl/CARA_CUERPO_TEO.stl`, `stl/CARA_TEO.stl`, `stl/CUERPO_TEO.stl`, `stl/AGARRE_TEO.stl`: ya orientados y apoyados en Z=0
+- `CUERPO_TEO.stl` y `CARA_CUERPO_TEO.stl` traen soportes integrados bajo el marco: 148 aletas de 0.8 mm cada 2.5 mm,
+  0.2 mm por debajo del marco y 0.6 mm separadas de la pared. Imprimir con los soportes del laminador desactivados
+  y retirar las aletas a mano
 - Insertos termicos M3 con cautin a ~240 C (PETG)
 
 ## Pendientes
